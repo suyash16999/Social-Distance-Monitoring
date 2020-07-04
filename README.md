@@ -6,6 +6,8 @@ A Social Distance Monitoring Tool using OpenCV.
 
 Firstly humans are identified in a video stream using YOLO(You Only Look Once)- a special kind of Convolutional Neural Network. 
 
+P.S.- Due to the large size of yolo.weights file it could not be uploaded. It can be downloaded from https://pjreddie.com/media/files/yolov3.weights
+
 Each person detected is bounded by a rectangular box in order to locate the person.
 
 The camera perspective is transformed to a bird-eye view (top down) for effectively computing euclidean distance between people.
