@@ -1,4 +1,4 @@
-# Social-Distancing
+# Social Distancing
 
 A Social Distance Monitoring Tool using OpenCV.
 
